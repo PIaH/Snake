@@ -1,0 +1,9 @@
+D:\Eigene Dateien\Visual Studio 2008\Projects\Snake\Snake\obj\Debug\ResolveAssemblyReference.cache
+D:\Eigene Dateien\Visual Studio 2008\Projects\Snake\Snake\obj\Debug\Snake.Properties.Resources.resources
+D:\Eigene Dateien\Visual Studio 2008\Projects\Snake\Snake\obj\Debug\Snake.csproj.GenerateResource.Cache
+D:\Eigene Dateien\Visual Studio 2008\Projects\Snake\Snake\bin\Debug\Snake.exe
+D:\Eigene Dateien\Visual Studio 2008\Projects\Snake\Snake\bin\Debug\Snake.pdb
+D:\Eigene Dateien\Visual Studio 2008\Projects\Snake\Snake\obj\Debug\Snake.exe
+D:\Eigene Dateien\Visual Studio 2008\Projects\Snake\Snake\obj\Debug\Snake.pdb
+D:\Eigene Dateien\Repository\Snake\Snake\obj\Debug\Snake.exe
+D:\Eigene Dateien\Repository\Snake\Snake\obj\Debug\Snake.pdb
